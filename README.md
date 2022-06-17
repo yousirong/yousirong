@@ -34,11 +34,10 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong)]([https://github.com/yousirong](https://github.com/yousirong/HUFS_CAPSTONE_AWS)/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong)](https://github.com/yousirong/github-readme-stats)
 
 
 # :mailbox_with_mail: Contacts
-<!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diziyong1523@gmail.com)](mailto:diziyong1523@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:diziyong@naver.com)](mailto:diziyong@naver.com)
 
