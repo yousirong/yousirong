@@ -34,7 +34,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
  
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong)](https://github.com/yousirong/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong)]([https://github.com/yousirong](https://github.com/yousirong/HUFS_CAPSTONE_AWS)/github-readme-stats)
 
 
 # :mailbox_with_mail: Contacts
