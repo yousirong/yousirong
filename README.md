@@ -8,7 +8,7 @@
 
 
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=yousirong&theme=dark&show_icons=true)
+![yousirong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousirong&theme=highcontrast&show_icons=true)
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
