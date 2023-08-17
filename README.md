@@ -8,7 +8,7 @@
 
 
 
-![Juneyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousirong&show_icons=true&theme=transparent)
+![Juneyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juneyong_d.v&show_icons=true&theme=transparent)
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
