@@ -42,7 +42,7 @@
 
 
 # :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diziyong1523@gmail.com)](mailto:diziyong@hufs.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diziyong1523@gmail.com)](mailto:diziyong@hufs.ac.kr)
 
 
 Here are some ideas to get you started:
