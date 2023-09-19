@@ -26,10 +26,10 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
-![pytorch]("https://img.shields.io/badge/pytorch-#EE4C2C?style=for-the-badge&logo=pyTorch&logoColor=white")
-![tensorflow]("https://img.shields.io/badge/tensorflow-#FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white")
+![Tytorch]("https://img.shields.io/badge/pytorch-#EE4C2C?style=for-the-badge&logo=pyTorch&logoColor=white")
+![Tensorflow]("https://img.shields.io/badge/tensorflow-#FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white")
 
-
+<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>TensorFlow</title><path d="M1.292 5.856L11.54 0v24l-4.095-2.378V7.603l-6.168 3.564.015-5.31zm21.43 5.311l-.014-5.31L12.46 0v24l4.095-2.378V14.87l3.092 1.788-.018-4.618-3.074-1.756V7.603l6.168 3.564z"/></svg>
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
