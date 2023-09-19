@@ -28,7 +28,9 @@
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
 ![PyTorch]("https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white")
 ![TensorFlow]("https://img.shields.io/badge/TensorFlow-#FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white")
-
+<img height="32" width="32" src="https://cdn.simpleicons.org/[PyTorch]" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]" />
+<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]/[DARK_MODE_COLOR]" />
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
