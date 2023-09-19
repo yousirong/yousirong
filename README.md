@@ -26,8 +26,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF.svg?&style=for-the-badge&logo=Unity&logoColor=black)
-![PyTorch]("https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white")
-![Tensorflow]("https://img.shields.io/badge/Tensorflow-#FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white")
+![PyTorch]("https://img.shields.io/badge/PyTorch-#EE4C2C?style=for-the-badge&logo=pyTorch&logoColor=white")
+![Tensorflow]("https://img.shields.io/badge/Tensorflow-#FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white")
 
 
 ### Tools
