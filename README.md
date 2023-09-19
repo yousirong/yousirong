@@ -4,8 +4,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Juneyong😉&fontSize=70&animation=twinkling)
 
 
-![yousirong's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousirong&theme=highcontrast&show_icons=true)
 
+![JuneYong_d.v's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousirong&show_icons=true&theme=radical)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyousirong&count_bg=%2300FCF7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
