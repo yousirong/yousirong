@@ -55,7 +55,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I will work for the Korea Cyber Investigation Unit.
+- 🔭 I will work for Artificial Intelligence Research Institute
 - 🌱 I’m currently learning React/Redux/MachineLearning/DeapLearning/Information protection
 - 👯 I’m looking to collaborate on ...
 - 🤔 I want to learn from someone who knows travel in Japan well.
