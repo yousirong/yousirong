@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - 🤔 I want to learn from someone who knows travel in Japan well.
 - 💬 Ask me about ...
 - 📫 How to reach me: diziyong@hufs.ac.kr 
-- 😄 Hobby: Table tennis, bowling, Studio Ghibli animation master
+- 😄 Hobby: Table tennis, bowling, Studio Ghibli animation 
 - ⚡ Fun fact: ...
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
