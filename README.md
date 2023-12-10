@@ -14,7 +14,7 @@
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox3959)](https://solved.ac/phlox3959/)
 ### Platforms & Languages
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
