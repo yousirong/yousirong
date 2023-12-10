@@ -3,7 +3,7 @@
 <!-- # Juneyong 😉 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Juneyong😉&fontSize=70&animation=twinkling)
 
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yousirong)](https://solved.ac/yousirong/)
 
 ![JuneYong_d.v's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousirong&show_icons=true&theme=radical)
 
@@ -14,7 +14,7 @@
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=phlox3959)](https://solved.ac/phlox3959/)
+
 ### Platforms & Languages
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
