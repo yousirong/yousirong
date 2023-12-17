@@ -3,6 +3,7 @@
 <!-- # Juneyong 😉 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Juneyong😉&fontSize=70&animation=twinkling)
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diziyong)](https://solved.ac/diziyong/)
 
 ![JuneYong_d.v's GitHub stats](https://github-readme-stats.vercel.app/api?username=yousirong&show_icons=true&theme=radical)
 
