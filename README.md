@@ -41,7 +41,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![FileZilla](https://img.shields.io/badge/FileZilla-BF0000.svg?&style=for-the-badge&logo=FileZilla&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC.svg?&style=for-the-badge&logo=Trello&logoColor=white)
+![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
  
 <!--  
@@ -55,7 +55,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I will work for Artificial Intelligence Research Institute
-- 🌱 I’m currently learning React/Redux/MachineLearning/DeapLearning/Information protection
+- 🌱 I’m currently learning DeepLearningm, Computer Vision, Generative models, Multi-modal AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I want to learn from someone who knows travel in Japan well.
 - 💬 Ask me about ...
