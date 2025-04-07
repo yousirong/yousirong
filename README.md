@@ -44,7 +44,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I will work for Artificial Intelligence Research Institute
-- 🌱 I’m currently learning DeepLearningm, Computer Vision, Generative models, Multi-modal AI
+- 🌱 I’m currently learning Deep Learning, Computer Vision, Generative models, Multi-modal AI
 - 👯 I’m looking to collaborate on ...
 - 🤔 I want to learn from someone who knows travel in Japan well.
 - 💬 Ask me about ...
