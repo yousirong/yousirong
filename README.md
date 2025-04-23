@@ -5,11 +5,25 @@
 
 
 
-![JuneYong_d.v's GitHub stats](https://github-readme-stats-zeta-rosy-98.vercel.app/api?username=yousirong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true)
+<div align="center">
+
+  <img src="https://github-readme-stats-zeta-rosy-98.vercel.app/api?username=yousirong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
+
+  <br/>
+
+  <a href="https://solved.ac/diziyong/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/yousirong/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong&layout=compact" alt="Top Langs" />
+  </a>
+
+</div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong&layout=compact)](https://github.com/yousirong/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=diziyong)](https://solved.ac/diziyong/)
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
