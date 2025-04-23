@@ -15,8 +15,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
   </a>
 
-  <br/>
-
   <a href="https://github.com/yousirong/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong&layout=compact" alt="Top Langs" />
   </a>
