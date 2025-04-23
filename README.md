@@ -32,7 +32,7 @@
 
 
 ### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,aws,figma,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,aws,figma,notion,discord)](https://skillicons.dev)
 
  
 <!--  
@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I want to learn from someone who knows travel in Japan well.
 - 💬 Ask me about ...
-- 📫 How to reach me: diziyong@hufs.ac.kr  diziyong1523@gmail.com
-- 😄 Hobby: Table tennis, bowling, Studio Ghibli animation 
+- 📫 How to reach me: diziyong@hufs.ac.kr, diziyong1523@gmail.com
+- 😄 Hobby: bowling, Table tennis, Studio Ghibli animation 
 - ⚡ Fun fact: ...
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
