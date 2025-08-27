@@ -6,13 +6,13 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats-zeta-rosy-98.vercel.app/api?username=yousirong&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
+  <img src="https://github-readme-stats-jade-five.vercel.app/api?username=yousirong&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
   <br/>
   <a href="https://solved.ac/diziyong/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
   </a>
   <a href="https://github.com/yousirong/github-readme-stats">
-    <img src="https://github-readme-stats-zeta-rosy-98.vercel.app/api/top-langs/?username=yousirong&layout=compact&theme=dracula" alt="Top Langs" />
+    <img src="https://github-readme-stats-jade-five.vercel.app/api/top-langs/?username=yousirong&layout=compact&theme=dracula" alt="Top Langs" />
   </a>
 </div>
 
