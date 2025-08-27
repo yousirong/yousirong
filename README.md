@@ -7,8 +7,8 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats-zeta-rosy-98.vercel.app?username=yousirong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
-
+  <img src="https://github-readme-stats-zeta-rosy-98.vercel.app/api?username=yousirong&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
+  
   <br/>
 
   <a href="https://solved.ac/diziyong/">
@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://github.com/yousirong/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousirong&layout=compact" alt="Top Langs" />
+    <img src="https://github-readme-stats-zeta-rosy-98.vercel.app/api/top-langs/?username=yousirong&layout=compact" alt="Top Langs" />
   </a>
 
 </div>
