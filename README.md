@@ -25,27 +25,26 @@
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <h3>Platforms &amp; Languages</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,linux,docker,kubernetes,latex" alt="My Skills" />
-      </a>
-      <h3>Tools</h3>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,vscode,aws,figma,notion,discord" alt="My Skills" />
-      </a>
-    </td>
-    <td valign="middle" width="45%" align="center">
-      <br/>
-      <br/>
-      <a href="https://solved.ac/profile/diziyong">
-        <img width="100%" src="https://mazassumnida.wtf/api/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
-      </a>
-    </td>
-  </tr>
+<table align="right" width="400">
+  <caption align="left">
+    <h3>Baekjoon Tier</h3>
+    <a href="https://solved.ac/profile/diziyong">
+      <img width="400" src="https://mazassumnida.wtf/api/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
+    </a>
+  </caption>
 </table>
+
+<h3>Platforms &amp; Languages</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,linux,docker,kubernetes,latex" alt="My Skills" />
+</a>
+
+<h3>Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,aws,figma,notion,discord" alt="My Skills" />
+</a>
+
+<br clear="both" />
 
  
 <!--  
