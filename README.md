@@ -10,24 +10,11 @@
 
 <div align="center">
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=yousirong&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img width="100%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
-    </td>
-  </tr>
-</table>
+<img height="170" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+<img height="170" src="https://streak-stats.demolab.com?user=yousirong&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
+
+<img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+<img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
 
 <a href="https://solved.ac/profile/diziyong">
   <img src="https://mazassumnida.wtf/api/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
