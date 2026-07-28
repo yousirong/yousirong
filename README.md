@@ -5,15 +5,39 @@
 
 
 
+
+## 📊 GitHub 스탯
+
 <div align="center">
-  <img src="https://github-readme-stats-jade-five.vercel.app/api?username=yousirong&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
-  <br/>
-  <a href="https://solved.ac/profile/diziyong">
-    <img src="https://mazassumnida.wtf/api/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
-  </a>
-  <a href="https://github.com/yousirong/github-readme-stats">
-    <img src="https://github-readme-stats-jade-five.vercel.app/api/top-langs/?username=yousirong&layout=compact&theme=dracula" alt="Top Langs" />
-  </a>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=yousirong&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
+    </td>
+  </tr>
+</table>
+
+<a href="https://solved.ac/profile/diziyong">
+  <img src="https://mazassumnida.wtf/api/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
+</a>
+
+<!-- <img src="https://github-readme-stats-jade-five.vercel.app/api?username=yousirong&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
+<a href="https://github.com/yousirong/github-readme-stats">
+  <img src="https://github-readme-stats-jade-five.vercel.app/api/top-langs/?username=yousirong&layout=compact&theme=dracula" alt="Top Langs" />
+</a> -->
+
 </div>
 
 
@@ -47,5 +71,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: diziyong@hufs.ac.kr, diziyong1523@gmail.com
 - 😄 Hobby: bowling, Table tennis, Studio Ghibli animation 
 - ⚡ Fun fact: ...
+
+## 🐍 잔디 스네이크
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yousirong/yousirong/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yousirong/yousirong/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yousirong/yousirong/output/github-snake.svg" />
+</picture>
+
+</div>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
