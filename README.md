@@ -5,8 +5,7 @@
 
 
 
-
-## 📊 GitHub 스탯
+<h3 align="center">📊 GitHub Stats 📊</h3>
 
 <div align="center">
 
@@ -15,10 +14,6 @@
 
 <img height="170" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo" />
 <img height="170" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit" />
-
-<a href="https://solved.ac/profile/diziyong">
-  <img src="https://mazassumnida.wtf/api/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
-</a>
 
 <!-- <img src="https://github-readme-stats-jade-five.vercel.app/api?username=yousirong&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="JuneYong_d.v's GitHub stats" />
 <a href="https://github.com/yousirong/github-readme-stats">
@@ -30,14 +25,27 @@
 
 <h3 align="center">💪 Tech Stack 💪</h3>
 
-
-### Platforms & Languages
-
-[![My Skills](https://skillicons.dev/icons?i=py,pytorch,linux,docker,kubernetes,latex)](https://skillicons.dev)
-
-
-### Tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode,aws,figma,notion,discord)](https://skillicons.dev)
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>Platforms &amp; Languages</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,pytorch,linux,docker,kubernetes,latex" alt="My Skills" />
+      </a>
+      <h3>Tools</h3>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=git,vscode,aws,figma,notion,discord" alt="My Skills" />
+      </a>
+    </td>
+    <td valign="middle" width="45%" align="center">
+      <br/>
+      <br/>
+      <a href="https://solved.ac/profile/diziyong">
+        <img width="100%" src="https://mazassumnida.wtf/api/generate_badge?boj=diziyong" alt="Solved.ac Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
 
  
 <!--  
