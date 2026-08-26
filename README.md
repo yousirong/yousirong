@@ -82,7 +82,7 @@ Turning generative &amp; agentic AI into clinically meaningful solutions</sub>
 
 # :mailbox_with_mail: Contacts
 
-<div align="center">
+<div align="left">
 
 <a href="https://yousirong.github.io/">
   <img src="https://img.shields.io/badge/CV-yousirong.github.io-7aa2f7?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1a1b27" alt="CV" />
