@@ -1,26 +1,38 @@
-# [yousirong CV](https://yousirong.github.io/)
-
 <!-- # Juneyong 😉 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Juneyong😉&fontSize=70&animation=twinkling)
 
 <div align="center">
 
+**Medical AI** &nbsp;·&nbsp; **Diffusion Models** &nbsp;·&nbsp; **Autonomous AI Agents**
+
+<sub>M.S. Student, Computer Science (AI Track) @ Hankuk University of Foreign Studies<br/>
+Turning generative &amp; agentic AI into clinically meaningful solutions</sub>
+
+<br/>
+
 <a href="https://yousirong.github.io/">
-  <img src="https://img.shields.io/badge/CV%20%26%20Publications-yousirong.github.io-1f6feb?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV" />
+  <img src="https://img.shields.io/badge/CV-yousirong.github.io-7aa2f7?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=1a1b27" alt="CV" />
 </a>
+&nbsp;
 <a href="https://junetriver.notion.site/3270afd4e0c580ac824ec9519b200fcf">
-  <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-Notion-c0caf5?style=for-the-badge&logo=notion&logoColor=white&labelColor=1a1b27" alt="Portfolio" />
 </a>
+&nbsp;
 <a href="https://scholar.google.com/citations?user=MkSbD78AAAAJ&hl=ko">
-  <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" />
+  <img src="https://img.shields.io/badge/Scholar-Publications-9ece6a?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=1a1b27" alt="Google Scholar" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/juneyong-lee-05b09733a">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
 </a>
 
-<p>
-M.S. student @ HUFS (AI Track) · <b>Medical AI</b> — diffusion models for medical imaging &amp; disease progression<br/>
-📄 <a href="https://yousirong.github.io/">Full CV &amp; publication list →</a>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=yousirong&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views" />
 
 </div>
+
+---
 
 <h3 align="center">📊 GitHub Stats 📊</h3>
 
@@ -70,9 +82,19 @@ M.S. student @ HUFS (AI Track) · <b>Medical AI</b> — diffusion models for med
 
 # :mailbox_with_mail: Contacts
 
-[![CV](https://img.shields.io/badge/CV-yousirong.github.io-1f6feb?style=flat-square&logo=readthedocs&logoColor=white)](https://yousirong.github.io/)
-[![HUFS Mail](https://img.shields.io/badge/diziyong@hufs.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:diziyong@hufs.ac.kr)
-[![Gmail](https://img.shields.io/badge/diziyong1523@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:diziyong1523@gmail.com)
+<div align="center">
+
+<a href="https://yousirong.github.io/">
+  <img src="https://img.shields.io/badge/CV-yousirong.github.io-7aa2f7?style=flat-square&logo=readthedocs&logoColor=white&labelColor=1a1b27" alt="CV" />
+</a>
+<a href="mailto:diziyong@hufs.ac.kr">
+  <img src="https://img.shields.io/badge/diziyong@hufs.ac.kr-d14836?style=flat-square&logo=Gmail&logoColor=white&labelColor=1a1b27" alt="HUFS Mail" />
+</a>
+<a href="mailto:diziyong1523@gmail.com">
+  <img src="https://img.shields.io/badge/diziyong1523@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&labelColor=1a1b27" alt="Gmail" />
+</a>
+
+</div>
 
 Here are some ideas to get you started:
 
