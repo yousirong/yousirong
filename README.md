@@ -26,10 +26,6 @@ Turning generative &amp; agentic AI into clinically meaningful solutions</sub>
   <img src="https://img.shields.io/badge/LinkedIn-Connect-bb9af7?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=yousirong&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views" />
-
 </div>
 
 ---
@@ -93,6 +89,9 @@ Turning generative &amp; agentic AI into clinically meaningful solutions</sub>
 <a href="mailto:diziyong1523@gmail.com">
   <img src="https://img.shields.io/badge/diziyong1523@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&labelColor=1a1b27" alt="Gmail" />
 </a>
+
+<img src="https://komarev.com/ghpvc/?username=yousirong&style=flat-square&color=7aa2f7&label=Profile+Views" alt="Profile Views" />
+
 
 </div>
 
