@@ -3,7 +3,7 @@
 
 <div align="center">
 
-**Generative AI** &nbsp;·&nbsp; **Multimodal Learning** &nbsp;·&nbsp; **Efficient AI**
+**Medical Imaging AI** &nbsp;·&nbsp; **Multimodal Learning** &nbsp;·&nbsp; **Efficient AI**
 
 <sub>M.S. Student, Computer Science (AI Track) @ Hankuk University of Foreign Studies<br/>
 Turning generative &amp; agentic AI into clinically meaningful solutions</sub>
